@@ -268,6 +268,11 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
+| Enfermedad Inflamatoria Intestinal (EII) | Conjunto de patologías digestivas crónicas sobre las que versa la plataforma web y hacia cuyos pacientes y cuidadores se orientan los contenidos, recetas y espacios de interacción social. |  Acta de captura, Product / SRS, 1.1|
+| Paciente | Usuario registrado en la plataforma que padece EII, con capacidad para buscar recetas adaptadas a su perfil de salud, publicar o proponer recetas, participar en el foro y autorizar el acceso a sus datos a uno o varios cuidadores. No requiere aprobación adicional tras verificar su correo. |   Acta de captura, 1.1, 1.2, 2, 3  |
+| Cuidador |Usuario registrado que presta apoyo a uno o varios pacientes de forma autorizada. Requiere la aprobación explícita del paciente vinculado para activar su perfil y solo accede a los datos de salud autorizados por este. Si no tiene ningún paciente asociado durante 3 meses la cuenta pasa a inactiva, y al año se elimina. |   Acta de captura, 1.2, 2   |
+| Nutricionista | Rol unificado que agrupa e iguala las funciones y permisos de profesionales de la medicina y de la nutrición. Requiere aprobación mediante acreditación profesional en línea y se distingue mediante un icono visual distintivo en sus intervenciones. Puede validar y publicar recetas, así como redactar publicaciones de salud. |   Acta de captura, 1.3, 3, 5 / SRS, 2.2  |
+| Coordinador |Único rol con responsabilidades de administración y moderación del foro y de gestión de los reportes de contenido inapropiado. Durante el primer año es desempeñado por una persona con dedicación parcial en horario laboral. |  Acta de captura, 4  |
 
 ## 10. Modelos de análisis
 
